@@ -14,7 +14,7 @@ tags:
 
 My favorite extensions, themes, tips for a beautifully productive development environment
 
-![](https://cdn-images-1.medium.com/max/3360/1*dWsJ6ausoRhmxHnhn4HCdg@2x.jpeg)
+![](tbn.png)
 
 ## Programs
 > Programs I use on a daily basis
@@ -33,7 +33,7 @@ My favorite extensions, themes, tips for a beautifully productive development en
 
 ## VS Code Setup
 
-![](https://cdn-images-1.medium.com/max/5140/1*xlG_5GfH6fg521j-HEsz2Q.png)
+![](vscode.jpg)
 
 My vscode setup isn’t anything super crazy but I have managed to get it looking pretty snazzy.
 
@@ -41,7 +41,7 @@ My vscode setup isn’t anything super crazy but I have managed to get it lookin
 
 [Fira Code](https://github.com/tonsky/FiraCode)
 
-![Fira Code Font](https://cdn-images-1.medium.com/max/2696/1*qnYMe196shFEa5L4NgS1YQ.png)*Fira Code Font*
+![Fira Code Font](font.png)*Fira Code Font*
 
 ## Extensions
 
@@ -58,7 +58,7 @@ My vscode setup isn’t anything super crazy but I have managed to get it lookin
 ### [Emojisense](https://github.com/mattbierner/vscode-emojisense)
 > Adds suggestions and autocomplete for emoji
 
-![Emojisense](https://cdn-images-1.medium.com/max/2000/1*pygmozaZSS9uPViw5oW8-Q.gif)*Emojisense*
+![Emojisense](emojisense.gif)*Emojisense*
 
 ### [Turbo Console Log](https://github.com/Chakroun-Anas/turbo-console-log)
 > If you have to use console.log(), this is the fastest way possible
@@ -67,7 +67,7 @@ My vscode setup isn’t anything super crazy but I have managed to get it lookin
 
 Always looking for improvements but damn I love this setup
 
-![](https://cdn-images-1.medium.com/max/2792/1*49ww1mbZWKG7jxvqPJL8YQ.png)
+![](terminal.png)
 > Since I’m a tinker-er and indecisive I switch beween iTerm2 & Hyper becuase I love everything the guys at Zeit produce
 
 ## Setup
@@ -78,7 +78,7 @@ Now you can install [oh-my-zsh](https://ohmyz.sh/)
 
 ## Prompt
 
-![[Prompt Pure](https://github.com/sindresorhus/pure)](https://cdn-images-1.medium.com/max/3456/1*1yilRy3UZcLEbv9Q3ekeeA.png)*[Prompt Pure](https://github.com/sindresorhus/pure)*
+![[Prompt Pure](prompt.png)*[Prompt Pure](https://github.com/sindresorhus/pure)*
 
 Instead of an oh-my-zsh theme, I am using [Prompt Pure](https://github.com/sindresorhus/pure)
 
