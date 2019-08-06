@@ -1,5 +1,5 @@
 ---
-path: react-navbar-scroller
+path: dotenv
 date: 2019-07-01
 title: Personal Dev Environment.
 thumbnail: tbn.png
