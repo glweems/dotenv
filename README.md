@@ -1,3 +1,15 @@
+---
+path: react-navbar-scroller
+date: 2019-07-01
+title: Personal Dev Environment.
+thumbnail: tbn.png
+tags:
+  - enviroment
+  - plugins
+  - tips
+---
+
+
 # Upgrading your development environment
 
 My favorite extensions, themes, tips for a beautifully productive development environment
