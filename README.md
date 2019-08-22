@@ -2,7 +2,8 @@
 path: dotenv
 date: 2019-07-01
 title: Personal Dev Environment.
-thumbnail: tbn.png
+subtitle: My favorite extensions, themes, tips for a beautifully productive development environment.
+thumbnail: vscode.png
 tags:
   - enviroment
   - plugins
@@ -14,7 +15,7 @@ tags:
 
 My favorite extensions, themes, tips for a beautifully productive development environment
 
-![](tbn.png)
+![](vscode.png)
 
 ## Programs
 > Programs I use on a daily basis
@@ -33,7 +34,7 @@ My favorite extensions, themes, tips for a beautifully productive development en
 
 ## VS Code Setup
 
-![](vscode.jpg)
+![](tbn.jpg)
 
 My vscode setup isn’t anything super crazy but I have managed to get it looking pretty snazzy.
 
