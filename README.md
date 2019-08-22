@@ -1,6 +1,6 @@
 ---
 path: dotenv
-date: 2019-07-01
+date: 07/01/2019
 title: Personal Dev Environment.
 subtitle: My favorite extensions, themes, tips for a beautifully productive development environment.
 thumbnail: vscode.png
@@ -8,6 +8,7 @@ tags:
   - enviroment
   - plugins
   - tips
+ repo: github.com/glweems/dotenv
 ---
 
 
