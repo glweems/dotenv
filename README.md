@@ -5,18 +5,16 @@ title: Personal Dev Environment.
 subtitle: My favorite extensions, themes, tips for a beautifully productive development environment.
 thumbnail: vscode.png
 repo: github.com/glweems/dotenv
+git:
+  - github
+  - glweems
+  - dotenv
+  - master
 tags:
   - enviroment
   - plugins
   - tip
 ---
-
-
-# Upgrading your development environment
-
-My favorite extensions, themes, tips for a beautifully productive development environment
-
-![](vscode.png)
 
 ## Programs
 > Programs I use on a daily basis
