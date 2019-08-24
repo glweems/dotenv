@@ -16,7 +16,7 @@ tags:
   - tip
 ---
 
-![Thumbnail](vscode.png)
+![Thumbnail](./vscode.jpg)
 
 ---
 
