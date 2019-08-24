@@ -16,6 +16,10 @@ tags:
   - tip
 ---
 
+![Thumbnail](vscode.png)
+
+---
+
 ## Programs
 > Programs I use on a daily basis
 
